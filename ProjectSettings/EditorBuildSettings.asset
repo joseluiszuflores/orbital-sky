@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/busqueda-catalogo.unity
-    guid: 20238264ffffb42bfb4cd0d137886241
-  - enabled: 1
     path: Assets/Scenes/menu.unity
     guid: 9d70e2dc7aaa343d58c77d8fea2d6a58
+  - enabled: 1
+    path: Assets/Scenes/busqueda-catalogo.unity
+    guid: 20238264ffffb42bfb4cd0d137886241
   m_configObjects: {}

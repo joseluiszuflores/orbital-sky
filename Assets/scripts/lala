@@ -1,0 +1,26 @@
+new Categoria("Beidou Navigation System",54,0,0,54),
+new Categoria("Brightest",50,1,82,133),
+new Categoria("Celestis",1,0,2,3),
+new Categoria("CubeSats",176,0,0,176),
+new Categoria("Disaster monitoring",28,0,0,28),
+new Categoria("Earth resources",149,0,0,149),
+new Categoria("Education",20,0,0,20),
+new Categoria("Engineering",61,0,0,61),
+new Categoria("Experimental",158,0,0,158),
+new Categoria("Flock",244,0,1,245),
+
+
+new Satelite("QUETZAL-1" ,45598,"1998-067RL","Active"),	
+new Satelite("QARMAN" ,45263,"1998-067RG","Active"),	
+new Satelite("RADSAT-U" ,45262,"1998-067RF","Inactive"),	
+new Satelite("AZTECHSAT-1" ,45261,"1998-067RE","Active"),
+
+
+new Satelite("GALAXY 30",	46114,"2020-056C","August 15, 2020"),
+new Satelite("BEIDOU 3 G2",	45344,"2020-017A","March 9, 2020"),
+new Satelite("GEO-KOMPSAT-2B",	45246,"2020-013B","February 18, 2020"),
+new Satelite("JCSAT 17",	45245,"2020-013A","February 18, 2020"),
+new Satelite("EUTELSAT KONNECT",	45027,"2020-005B","January 16, 2020"),
+new Satelite("GSAT 30",	45026,"2020-005A","January 16, 2020"),
+new Satelite("SJ-20",	44910,"2019-097A","December 27, 2019"),
+new Satelite("INMARSAT GX5",	44801,"2019-080B","November 26, 2019"),
